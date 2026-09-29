@@ -1,0 +1,27 @@
+{
+  "repository": "alexandroit/stackline-regex-parser",
+  "packages": [
+    {
+      "name": "@stackline/regex-parser",
+      "path": "README.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "regex-parser",
+        "parser",
+        "typescript",
+        "regular",
+        "expressions",
+        "node",
+        "string"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/regex-parser/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/regex-parser/-/regex-parser-1.0.0.tgz",
+      "baselineIntegrity": "sha512-EDP7v7xAtp1D+/0SJs0VoU7GQ3ztDXtUu53Lm4/fZgJAQqPOHBQza1ItNtnW5Rwtk41W6KrioXAHb02STu+g2Q==",
+      "expectedSha512": "431db542ba8c2592a3682f5bbe6c6992648c56cebf8f932772fec1dc7b26bbb9711df35c89d4fbaef959213b469eac02d09cc2cc7f3422864609417b21f70ebc",
+      "tag": "docs-stackline-regex-parser-v1.0.1"
+    }
+  ]
+}
