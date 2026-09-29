@@ -1,0 +1,5 @@
+Independent maintenance fork of regex-parser 2.3.1.
+Original copyright, author attribution, and license files are retained unchanged.
+Upstream: https://github.com/IonicaBizau/regex-parser.js
+Base commit: 455a3b0e259b4b970e331ae9d41663718b2ae34e
+Stackline is not affiliated with or endorsed by upstream maintainers.

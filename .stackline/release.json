@@ -1,0 +1,13 @@
+{
+  "slug": "regex-parser",
+  "upstream": "regex-parser",
+  "upstreamVersion": "2.3.1",
+  "upstreamIntegrity": "sha512-yXLRqatcCuKtVHsWrNg0JL3l1zGfdXeEvDa0bdu4tCDQw0RpMDZsqbkyRTUnKMR0tXF627V2oEWjBEaEdqTwtQ==",
+  "upstreamCommit": "455a3b0e259b4b970e331ae9d41663718b2ae34e",
+  "sourcePackageDirectory": ".",
+  "overlays": {},
+  "tests": [
+    "npm ci --ignore-scripts",
+    "npm test"
+  ]
+}
