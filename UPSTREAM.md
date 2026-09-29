@@ -16,3 +16,5 @@ Maintenance adoption with preserved runtime payload. No runtime defect correctio
 
 
 The structured snapshot in `.stackline/issue-triage.json` also records recently closed reports. Issues for unrelated packages in shared monorepositories were qualified as outside this fork’s runtime scope. No maintainer was contacted.
+
+Parse delimiter/flag boundaries in linear work while preserving upstream semantics across 5,000 generated differential inputs. User-selected regular expressions retain their original semantics.

@@ -27,6 +27,7 @@ jobs:
       - run: npm install --global npm@11.19.0
       - run: npm ci --ignore-scripts
       - run: npm test
+      - run: node test-stackline.cjs
       - run: python3 scripts/stackline-pack.py
       - run: node scripts/stackline-test-packed.mjs
       - run: node --test scripts/registry-requests.test.mjs
